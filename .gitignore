@@ -1,0 +1,6 @@
+*.pkl
+*.csv
+.env
+__pycache__/
+.vscode/
+w4env/

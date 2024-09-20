@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+xgboost
+lightgbm
+flask  
+gunicorn  
+tensorflow  
+torch      
+# black
+flake8
+pytest
