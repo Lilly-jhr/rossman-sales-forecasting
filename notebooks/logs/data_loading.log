@@ -1,2 +1,25 @@
 2024-09-20 16:41:26,334 - DataLoader - INFO - Attempting to load dataset from data/train.csv
 2024-09-20 16:41:26,338 - DataLoader - ERROR - File not found: data/train.csv
+2024-09-20 16:43:14,737 - DataLoader - INFO - Attempting to load dataset from data/train.csv
+2024-09-20 16:43:14,739 - DataLoader - ERROR - File not found: data/train.csv
+2024-09-20 16:46:08,315 - DataLoader - INFO - Attempting to load dataset from D:/Kifiya AI/rossman-sales-forecasting/data/train.csv
+2024-09-20 16:46:10,169 - DataLoader - INFO - Successfully loaded dataset with 1017209 rows and 9 columns.
+2024-09-20 16:46:10,170 - DataLoader - INFO - Attempting to load dataset from D:/Kifiya AI/rossman-sales-forecasting/data/test.csv
+2024-09-20 16:46:10,330 - DataLoader - INFO - Successfully loaded dataset with 41088 rows and 8 columns.
+2024-09-20 16:46:10,334 - DataLoader - INFO - Attempting to load dataset from D:/Kifiya AI/rossman-sales-forecasting/data/store.csv
+2024-09-20 16:46:10,380 - DataLoader - INFO - Successfully loaded dataset with 1115 rows and 10 columns.
+2024-09-20 18:44:21,658 - DataLoader - INFO - Attempting to load dataset from D:/Kifiya AI/rossman-sales-forecasting/data/train.csv
+2024-09-20 18:44:22,890 - DataLoader - INFO - Successfully loaded dataset with 1017209 rows and 9 columns.
+2024-09-20 18:44:22,892 - DataLoader - INFO - Attempting to load dataset from D:/Kifiya AI/rossman-sales-forecasting/data/test.csv
+2024-09-20 18:44:23,024 - DataLoader - INFO - Successfully loaded dataset with 41088 rows and 8 columns.
+2024-09-20 18:44:23,025 - DataLoader - INFO - Attempting to load dataset from D:/Kifiya AI/rossman-sales-forecasting/data/store.csv
+2024-09-20 18:44:23,050 - DataLoader - INFO - Successfully loaded dataset with 1115 rows and 10 columns.
+2024-09-20 19:11:48,278 - DataLoader - INFO - Attempting to load dataset from D:/Kifiya AI/rossman-sales-forecasting/data/train.csv
+2024-09-20 19:11:50,176 - DataLoader - INFO - Successfully loaded dataset with 1017209 rows and 9 columns.
+2024-09-20 19:11:50,176 - DataLoader - INFO - Attempting to load dataset from D:/Kifiya AI/rossman-sales-forecasting/data/test.csv
+2024-09-20 19:11:50,287 - DataLoader - INFO - Successfully loaded dataset with 41088 rows and 8 columns.
+2024-09-20 19:11:50,287 - DataLoader - INFO - Attempting to load dataset from D:/Kifiya AI/rossman-sales-forecasting/data/store.csv
+2024-09-20 19:11:50,309 - DataLoader - INFO - Successfully loaded dataset with 1115 rows and 10 columns.
+2024-09-20 19:12:19,337 - DataLoader - INFO - Removed 9731 outliers from Sales using Z-score method.
+2024-09-20 19:12:19,653 - DataLoader - INFO - Removed 10501 outliers from Customers using Z-score method.
+2024-09-20 19:12:19,963 - DataLoader - INFO - Capped outliers in CompetitionDistance between 50.0 and 36410.0.
